@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+**Choose the level of the bug**
+- [ ] 1级Bug/Blocker
+- [ ] 2级Bug/Critical
+- [ ] 3级Bug/Major
+- [ ] 4级Bug/Minor
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
